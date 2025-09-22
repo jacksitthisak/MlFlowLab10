@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/MLFLOW/mlruns/212913995950289561/355c940ba0604cd89f95e5c4c6a57f14/artifacts
+end_time: 1757910007758
+entry_point_name: ''
+experiment_id: '212913995950289561'
+lifecycle_stage: active
+run_id: 355c940ba0604cd89f95e5c4c6a57f14
+run_name: redolent-robin-245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757910007697
+status: 3
+tags: []
+user_id: computer

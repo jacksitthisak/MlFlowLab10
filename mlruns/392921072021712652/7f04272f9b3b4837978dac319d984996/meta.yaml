@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/MLFLOW/mlruns/392921072021712652/7f04272f9b3b4837978dac319d984996/artifacts
+end_time: 1757909781744
+entry_point_name: ''
+experiment_id: '392921072021712652'
+lifecycle_stage: active
+run_id: 7f04272f9b3b4837978dac319d984996
+run_name: random_forest_10_trees
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757909778619
+status: 3
+tags: []
+user_id: computer

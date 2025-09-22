@@ -1,0 +1,6 @@
+artifact_location: file:///C:/MLFLOW/mlruns/392921072021712652
+creation_time: 1757909778499
+experiment_id: '392921072021712652'
+last_update_time: 1757909778499
+lifecycle_stage: active
+name: Iris - Model Training (RandomForest)

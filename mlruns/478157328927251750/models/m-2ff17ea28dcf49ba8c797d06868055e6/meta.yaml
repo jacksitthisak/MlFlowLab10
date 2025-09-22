@@ -1,0 +1,10 @@
+artifact_location: file:///C:/MLFLOW/mlruns/478157328927251750/models/m-2ff17ea28dcf49ba8c797d06868055e6/artifacts
+creation_timestamp: 1758510957445
+experiment_id: '478157328927251750'
+last_updated_timestamp: 1758510961312
+model_id: m-2ff17ea28dcf49ba8c797d06868055e6
+model_type: null
+name: iris_classifier_pipeline
+source_run_id: e635e553703a4d3dbf6d13b0d88bf362
+status: 2
+status_message: null

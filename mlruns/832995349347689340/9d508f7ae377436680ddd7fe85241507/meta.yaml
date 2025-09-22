@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/MLFLOW/mlruns/832995349347689340/9d508f7ae377436680ddd7fe85241507/artifacts
+end_time: 1758510862003
+entry_point_name: ''
+experiment_id: '832995349347689340'
+lifecycle_stage: active
+run_id: 9d508f7ae377436680ddd7fe85241507
+run_name: able-bear-163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758510861924
+status: 3
+tags: []
+user_id: computer

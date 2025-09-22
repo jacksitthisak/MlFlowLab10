@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/MLFLOW/mlruns/832995349347689340/65594b15b8604d50969d4e6e2364fffd/artifacts
+end_time: 1757908827506
+entry_point_name: ''
+experiment_id: '832995349347689340'
+lifecycle_stage: active
+run_id: 65594b15b8604d50969d4e6e2364fffd
+run_name: orderly-frog-456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757908827449
+status: 3
+tags: []
+user_id: computer

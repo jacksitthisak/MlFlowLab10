@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/MLFLOW/mlruns/212913995950289561/ccb853e6c6d74eaa90bf646b2be8f0c6/artifacts
+end_time: 1758510887360
+entry_point_name: ''
+experiment_id: '212913995950289561'
+lifecycle_stage: active
+run_id: ccb853e6c6d74eaa90bf646b2be8f0c6
+run_name: selective-skunk-640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758510887290
+status: 3
+tags: []
+user_id: computer
