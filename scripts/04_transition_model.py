@@ -3,7 +3,7 @@ import mlflow
 
 def load_and_predict():
     MODEL_NAME = "wine-classifier-prod"
-    MODEL_STAGE = "staging"  
+    MODEL_STAGE = "Staging"  
 
     print(f"Loading model '{MODEL_NAME}' from stage '{MODEL_STAGE}'...")
 
